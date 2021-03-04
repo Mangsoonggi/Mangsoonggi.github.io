@@ -1,0 +1,159 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 110px;
+}.u-section-2 {
+  background-image: url("images/mangsoonggi_code.png");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 744px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 613px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 550px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 {
+    background-position: 49.83% 56.89%;
+    background-size: auto 110%;
+  }
+
+  .u-section-2 .u-sheet-1 {
+    min-height: 556px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 173px;
+}
+
+.u-section-3 .u-line-1 {
+  margin-top: 87px;
+  margin-bottom: 60px;
+  height: 3px;
+  transform-origin: left center 0px;
+}.u-section-4 .u-sheet-1 {
+  min-height: 543px;
+}
+
+.u-section-4 .u-text-1 {
+  animation-duration: 1000ms;
+  margin: 42px 417px 0;
+}
+
+.u-section-4 .u-image-1 {
+  width: 270px;
+  height: 461px;
+  animation-duration: 1000ms;
+  object-position: 50% 100%;
+  margin: -81px auto 0 70px;
+}
+
+.u-section-4 .u-text-2 {
+  animation-duration: 1000ms;
+  margin: -327px 147px 0 417px;
+}
+
+.u-section-4 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  font-size: 2.25rem;
+  text-transform: uppercase;
+  animation-duration: 1000ms;
+  margin: 86px auto 60px 419px;
+  padding: 0;
+}
+
+.u-section-4 .u-icon-1 {
+  width: 36px;
+  height: 49px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-text-1 {
+    margin-right: 317px;
+    margin-left: 317px;
+  }
+
+  .u-section-4 .u-image-1 {
+    margin-top: 20px;
+    margin-right: 317px;
+    margin-left: 317px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-right: 47px;
+    margin-left: 344px;
+  }
+
+  .u-section-4 .u-btn-1 {
+    margin-left: 219px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 602px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-right: 207px;
+    margin-left: 207px;
+  }
+
+  .u-section-4 .u-image-1 {
+    margin-right: 243px;
+    margin-left: 207px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-top: 20px;
+    margin-right: 243px;
+    margin-left: 207px;
+  }
+
+  .u-section-4 .u-btn-1 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-text-1 {
+    margin-right: 117px;
+    margin-left: 117px;
+  }
+
+  .u-section-4 .u-image-1 {
+    margin-right: 153px;
+    margin-left: 117px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-right: 153px;
+    margin-left: 197px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-text-1 {
+    margin-right: 17px;
+    margin-left: 17px;
+  }
+
+  .u-section-4 .u-image-1 {
+    margin-right: 53px;
+    margin-left: 17px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-right: 53px;
+    margin-left: 124px;
+  }
+}
